@@ -8,5 +8,5 @@ This dataset is created using offline augmentation from the original dataset. Th
 
 Note: This description is given in the dataset itself
 
-**Our goal 🎯**
+# Our goal 🎯
 Goal is clear and simple. We need to build a model, which can classify between healthy and diseased crop leaves and also if the crop have any disease, predict which disease is it.
